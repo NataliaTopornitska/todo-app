@@ -27,6 +27,6 @@ The project includes the following technologies:
 
 ## Additional launch instructions:
 
-- git clone https://github.com/your_account/react-todo-app-api.git
+- git clone 
 - npm install
 - npm start
