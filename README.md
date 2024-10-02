@@ -2,7 +2,7 @@
 
 React Todo App with API is an application that allows users to add, view, toggle, rename, and delete tasks in a to-do list. Tasks can be marked as either 'completed' or 'active.' The app provides a seamless way to manage tasks with the ability to update task status and titles efficiently.
 
-To experience a demonstration of this project, please visit the [DEMO LINK]()
+To experience a demonstration of this project, please visit the [DEMO LINK](https://nataliatopornitska.github.io/todo-app/)
 
 This project was created as part of a Frontend Development course to demonstrate and improve skills in the following areas:
 
