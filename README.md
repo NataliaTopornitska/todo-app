@@ -27,6 +27,6 @@ The project includes the following technologies:
 
 ## Additional launch instructions:
 
-- git clone 
+- git clone https://github.com/NataliaTopornitska/todo-app
 - npm install
 - npm start
